@@ -1,11 +1,11 @@
 import React from 'react';
-import { Navigation } from './components/Navigation';
-import { Hero } from './components/Hero';
-import { SchoolCard } from './components/SchoolCard';
-import { Testimonials } from './components/Testimonials';
-import { StickyFooter } from './components/StickyFooter';
-import { FAB } from './components/FAB';
-import { SCHOOLS } from './constants';
+import { Navigation } from './components/Navigation.tsx';
+import { Hero } from './components/Hero.tsx';
+import { SchoolCard } from './components/SchoolCard.tsx';
+import { Testimonials } from './components/Testimonials.tsx';
+import { StickyFooter } from './components/StickyFooter.tsx';
+import { FAB } from './components/FAB.tsx';
+import { SCHOOLS } from './constants.ts';
 import { Check, ArrowRight, FileText, GraduationCap, ClipboardList, User } from 'lucide-react';
 
 function App() {

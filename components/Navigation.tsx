@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { NAV_ITEMS } from '../constants';
+import { NAV_ITEMS } from '../constants.ts';
 import { Menu, X } from 'lucide-react';
 
 export const Navigation: React.FC = () => {

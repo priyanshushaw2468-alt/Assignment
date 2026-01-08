@@ -1,4 +1,4 @@
-import { School } from './types';
+import { School } from './types.ts';
 
 export const SCHOOLS: School[] = [
   {

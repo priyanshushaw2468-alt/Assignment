@@ -1,5 +1,5 @@
 import React from 'react';
-import { School } from '../types';
+import { School } from '../types.ts';
 import { Star, ArrowRight, MapPin, IndianRupee, Users, School as SchoolIcon } from 'lucide-react';
 
 interface SchoolCardProps {
